@@ -1,0 +1,48 @@
+                     1.8 HTML Attributes
+                     
+     Container elements provide information between their start and end tags.
+     Most attributes have a value assigned to them.
+     Attributes are surrounded by quote(single or double).
+     A string is a group of zero or more characters surrounded by a pair of double quotes (“) or a pair of single quotes (‘).
+     Double quates are prefered
+     Attributes are more common with void elements
+     The lang attribute tells the browser that the element is using a particular language for its content.
+           (we can use it for any element)
+     why the need of specifing an element language?
+        -Help search engines find web pages that use a particular language.
+        -Help spell-checker and grammar-checker tools work more effectively.
+        -Help browsers use appropriate fonts.
+        -Help speech synthesizers pronounce words correctl
+        
+                      meta charset Element
+                      
+     Syntax refers to the punctuation rules for code.
+     Semantics refers to the meaning of the code.
+     When a web server transmits a web page’s source code to an end-user’s computer, the web server doesn’t transmit 
+      the source code’s characters the way we see them in this code or on a keyboard.
+     It transmits coded representations of the source code’s characters.
+     Coded representations are in binary(binary sequence of 8bit).
+     For web page transmissions, the meta charset element specifies the encoding scheme.
+     Using a charset value of “utf-8” is better because all modern browsers understand that value.
+     The encoding scheme is sometimes referred to as a character set, and that’s what charset stands for. 
+     Omiting the meta charset element,doesn't affect our web page because most browsers assume UTF-8 encoding by default.
+     Although it will be on risk of characters being interpreted incorrectly.
+ 
+                  meta name Element
+ 
+     Most of the meta elements use the name attribute to specify the type of information that’s being provided.
+     Common values for the meta name attribute are author, description, and keywords.
+     The name and content attributes go together.
+       The name attribute’s value specifies the type of thing that the content attribute’s value specifies.
+       The content attribute specifies the author’s name
+     Why is knowing the author’s name important?
+       By specifying the author, the fixer/ enhancer knows whom to ask for help.
+     The meta description element and also the meta keywords element help web search engines.
+     The meta description element helps the person reading the code learn the purpose of the web page.
+ 
+ 
+ 
+     
+     
+     
+ 
