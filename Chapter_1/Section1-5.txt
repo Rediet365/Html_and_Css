@@ -1,0 +1,15 @@
+                  1.5 Structural Elements
+       
+   Two types of code are associated with a single program. 
+       source code, which the programmer enters, and there’s executable code, which is low-level code that the computer hardware
+       understands and executes (runs)
+  Executable code is generated from the source code with the help of something called a compiler 
+  HTML code is source code because HTML code comes directly from the programming source—the programmer.
+  
+  The doctype construct is considered to be an instruction, not an element, and it goes at the top of every web page. 
+    tells the browser what type of document the web page is.
+  The html, head, and body elements form the basic structure of a web page
+  The html element it’s a container, and it contains the rest of the web page
+  The head and body elements are also containers. The head element surrounds elements that provide information associated 
+   with the web page as a whole. 
+  The body element surrounds elements that display content in the web page
