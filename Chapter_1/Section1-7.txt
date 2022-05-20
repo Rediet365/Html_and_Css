@@ -1,0 +1,11 @@
+                             
+                             1.7meta Element
+                             
+ The meta elements provide information about the web page
+ “meta” means “about itself.”
+ There are many different types of meta elements
+    Some we should always include,and
+    Most are optionals.
+ The meta element is a void element(not a container)
+ It does not have an end tag
+ 
