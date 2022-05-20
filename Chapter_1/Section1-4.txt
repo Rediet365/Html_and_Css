@@ -1,0 +1,16 @@
+                   1.4 HTML Tags
+ we need to use tags to emplement an element
+ 
+ The use of tags is the key characteristic of a markup language
+ 
+ A markup language “marks up” a document by surrounding parts of its content with tags.
+ 
+ Each tag is surrounded by angled brackets, and the end tag starts with “</”.
+ h1, there are other heading elements—h2 through h6. The element h1 generates the
+largest heading, and h6 generates the smallest.
+
+ The first entity inside a tag is the tag’s type
+ 
+ There are two types of elements—container elements and void elements
+   A container element(usually called simply a “container”) has a start tag and an end tag, and it contains 
+   content between its two tags
