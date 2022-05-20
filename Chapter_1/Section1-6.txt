@@ -1,0 +1,9 @@
+                           1.6 title Element
+ The head element contains two types of elements—meta and title.
+ title element goes within thehead container.
+ specifies the label thatappears in the browser window’s title bar
+ title element goes within thehead container
+ The official HTML standard requires that every head container contains a title element. 
+ It provides documentation for someone trying to maintain our web page
+ ithelps web search engines find our web page.
+ 
