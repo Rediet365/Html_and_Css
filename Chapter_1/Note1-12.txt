@@ -1,7 +1,0 @@
-                         1.12 HTML Governing Bodies
-								 
-	The W3C’s mission statement says, “To lead the World Wide Web to its full potential by
-	developing protocols and guidelines that ensure the long-term growth of the Web.”
-
-	The WHATWG’s mission is narrower in scope than the W3C’s mission. WHATWG’s home page
-	simply says that they “maintain and evolve HTML.”
