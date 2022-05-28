@@ -1,0 +1,9 @@
+                                                1.8 HTML Attributes
+																
+9.The name attribute specifies the name for the metadata.
+  The content attribute specifies the value associated with the name attribute.
+10. UTF-8:-
+    U->Unicode (or Universal Coded Character Set) 
+	 T->Transformation 
+	 F->Format 
+	 8-> 8-bit
