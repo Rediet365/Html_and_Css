@@ -1,0 +1,16 @@
+                        body Elements: hr, p, br, div
+								
+	The hr element is used to render a horizontal line.
+		 "h" stands for horizontal and "r" stands for rule.
+		 It is a void element(uses one tag).
+	When a browser renders an element, it figures out how the element’s code should be displayed.
+	The p element is a container for a group of words that form a paragraph.
+	using p tag without its closing tag is a bad style but the browser will rendered it.
+	  It is used if the enclosed text forms something that would normally be considered a paragraph.
+	div element:- div stands for division 
+		  It is a container for a group of words
+		  The div element causes its enclosed text to have single line breaks above and below it.
+		  It is used if the enclosed text is related in some way(it will not cosidered as a paragraph).
+	 The br element displays a new line.
+ 
+ 
