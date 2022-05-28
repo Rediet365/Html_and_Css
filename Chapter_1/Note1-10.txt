@@ -1,0 +1,6 @@
+										1.10 Cascading Style Sheets Preview
+
+	 Formatting rules go inside a style container.
+	 Each rule has a CSS property and a CSS value, separated by a colon.
+					 h1{text-align(CSS property): center(CSS value)}
+
