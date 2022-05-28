@@ -1,0 +1,7 @@
+                             Difference between Container and Void element
+									  
+4. Container element consists of opening tag,content,closing tag. It is used to enclose texts and images and 
+   always comes with content.
+ 
+   Void element are used to insert the content and can be used inside the container tags.
+ 
