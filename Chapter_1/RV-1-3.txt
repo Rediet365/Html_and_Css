@@ -1,0 +1,4 @@
+                                          1.3 Web Page Example
+														
+4.HTTP stands for Hypertext Transfer Protocol.
+5.URL stands for Uniform Resource Locator
