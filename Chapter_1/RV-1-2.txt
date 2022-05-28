@@ -1,0 +1,6 @@
+                         1.2 Creating a Website
+								 
+1.A Web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond 
+  to client requests made over the World Wide Web.
+2.Views,Creating Headings and SubHeadings
+3.Open source
