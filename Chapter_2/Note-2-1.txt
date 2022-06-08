@@ -1,0 +1,8 @@
+                           Introduction
+									
+	By using additional HTML elements we can make our web pages more exprenssive.
+	Bock Elements:- elements that span the width of a web page.
+	Phrasing Elements:- elements that can be embedded inside a paragraph.
+   Character reference allow as to generate characters that are not on a   standard Keyboard.
+	
+	
