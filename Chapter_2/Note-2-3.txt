@@ -1,0 +1,8 @@
+																		 Comments
+	
+	Comments are words that humans read but the computer skips.(browser engine skips HTML comments)	
+	The browser engine is the software inside a web browser that reads a web page’s content (e.g., HTML code, 
+	 image files) and formatting information (CSS),and then displays the formatted content on the screen.
+		 <!-- --> used for comments in HTML.
+	In the world of software development, documentation refers to a description of a program.It is separated from the source code.
+	   It can also embeded in the source code itself.
