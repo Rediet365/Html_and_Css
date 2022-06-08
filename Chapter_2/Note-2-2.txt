@@ -1,0 +1,21 @@
+                          HTML Coding Conventions
+								  
+	If a web page’s code uses improper syntax or improper style, web browsers won’t display an error
+	message; instead, they’ll try to render the code in a reasonable manner.This will depend on browsers.
+	Program maintenance means debugging and enhancing a program after it has been released initially.
+			  It is important to remember the following style rules:
+				-For every container element, include both a start tag and an end tag. So even though it’s
+				  legal to omit a p element’s end tag, we don't do it.
+				-Use lowercase for all tag names (e.g., meta) and attributes (e.g., name).
+				-Use lowercase for attribute values unless there’s a reason for uppercase. 
+				  For a meta author element, use title case for the author’s name because that’s 
+				  how people’s names are normally spelled (e.g., name="Dan Connolly").
+				-For attribute-value assignments, surround the value with quotes, and omit spaces around
+				  the equals sign. 
+			  
+			               
+
+	 
+
+
+			  
