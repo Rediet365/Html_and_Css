@@ -1,0 +1,8 @@
+                                  =>2.4 HTML Elements Should Describe Web Page Content Accurately
+											 
+	A complementary overarching goal in web programming is to use HTML elements so our
+	 web page’s content is described fully.
+		 Q.why is it good practice to describe web page content accurately and fully?
+			 A.It’s a form of documentation, and documentation helps programmers understand and 
+			  maintain the web page code more easily.
+			 -it enables us to manipulate the web page more effectively using CSS and JavaScript.
