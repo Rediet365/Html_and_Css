@@ -1,0 +1,9 @@
+                                        2.6 Block Elements
+													 
+A block element expands to fill the width of its container, so for a given container, there will be only one 
+ block element for each row in the container.
+ 
+Different from a phrasing element in that:
+    1.a phrasing element’s width matches the width of the element’s contents 
+	 2.multiple phrasing elements can display in one row.
+	 
