@@ -1,0 +1,55 @@
+                                  2.5 Content Model Categories
+											 
+Containership rules:- eg. the head container must contain a title element,and a p container must not contain a div container.
+ With lots of elements (around 115), there are lots of containership rules (more than 11,000).
+ 
+It is easier to assign elements to certain categories and have those categories be the basis for the containership rules.
+
+One or more elements of metadata content, of which exactly one is a title element and no more
+ than one is a base element.
+ 
+p container is allowed to include elements that are in the phrasing category.
+
+If two categories overlap, that means that the categories include some elements that are in
+both categories.
+
+If a category is completely inside another category, then all the enclosed category’s elements are also in the
+ surrounding category.
+                         
+								Content Model Category Descriptions
+The metadata category includes elements that provide information associated with the web page as a whole	.
+     It includes all the elements that are allowed in the head container.
+The flow category includes plain text and all the elements that are allowed in a web page body
+container.
+
+The blockquote, div, hr, p, and pre elements are flow content elements,and they are not in any other 
+ content model categories.
+ 
+The script element is for JavaScript.It’s in the flow content category as well as the metadata content category 
+ (note the intersection of those two categories in the content model categories diagram).
+ 
+
+          Phrasing Category Elements:
+			   —abbr           —kbd
+				—b              —mark
+				—br             —q
+				—cite           —s
+				—code           —samp
+				—del            —small
+				—dfn            —span
+				—em             —strong
+				—i              —sub
+				—ins            —sup
+            —time           —wbr
+            —u              —var
+				
+The embedded category includes elements that refer to a resource that’s separate from the
+ current web page.eg audio
+ 
+The interactive category includes elements that are intended for user interaction.eg.button,input
+
+The heading category includes elements that define a header for a group of related content. eg h1
+
+The sectioning category includes elements that define a group of related content.
+
+
