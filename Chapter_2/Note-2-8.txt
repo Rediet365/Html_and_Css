@@ -1,0 +1,6 @@
+                                          Whitespace Collapsing
+														
+Whitespace refers to characters that are invisible when displayed on the browser window.
+The most common whitespace characters are the blank, newline, and tab characters.
+If we add so many newlines or tabs the browser will display the web page with only one 
+ whitespace character (usually a blank space).
