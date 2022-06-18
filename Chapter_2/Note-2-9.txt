@@ -1,0 +1,6 @@
+                       pre Element
+							  
+We should use the pre element for text that needs to have its whitespace preserved. 
+pre stands for “preformatted text.”However, we prefer to pretend that it stands for
+ “preserved whitespace” because that makes more sense.
+
